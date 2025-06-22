@@ -1,4 +1,4 @@
-# SIT742-Modern-Data-Science-Web-Log-Analytics-Citation-Prediction
+# Modern-Data-Science-Web-Log-Analytics-Citation-Prediction
 
 ## Project Overview
 
